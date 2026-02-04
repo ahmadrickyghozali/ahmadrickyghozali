@@ -1,5 +1,6 @@
 ## Hello World! I'm Ahmad Ricky Ghozali 👋
-![Ahmad Ricky Ghozali](img/Banner.jpg)
+![Ahmad Ricky Ghozali](Banner.jpg)
+
 
 
 🌱 Currently learning **Data Analytics**  
